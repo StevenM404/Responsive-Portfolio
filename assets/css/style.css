@@ -17,3 +17,16 @@
 .aboutme {
     margin-left: 30px;
 }
+
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+#textBody {
+    background-color: #343a40;
+    position: relative;
+    margin: 5% auto;
+    padding-bottom: 15px;
+    color: white;
+}
