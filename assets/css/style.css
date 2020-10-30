@@ -1,7 +1,16 @@
+#page {
+    position: relative;
+    min-height: 100vh;
+}
+
+#wrap {
+    padding-bottom: 2.5rem;
+}
+
 .footer {
     text-align: center;
     background-color: #343a40;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
 }
