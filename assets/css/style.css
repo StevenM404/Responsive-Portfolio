@@ -41,8 +41,8 @@ body {
 }
 
 img {
-    height: 100%;
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .button {
@@ -50,6 +50,8 @@ img {
     color: white;
     border-radius: 5px;
     border: none;
-    margin-right: 5px;
     padding: 3px 5px;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-bottom: 5%;
 }
